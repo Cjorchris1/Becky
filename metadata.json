@@ -1,0 +1,12 @@
+
+{
+  "name": "BECKY Tactical GCS",
+  "description": "A high-performance, AI-integrated web-based Ground Control Station for drone ecosystems, featuring telemetry monitoring, mission planning, and AI-assisted flight analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "usb",
+    "bluetooth"
+  ]
+}
